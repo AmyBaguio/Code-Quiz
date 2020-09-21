@@ -33,6 +33,6 @@ style.css
 game.css
 highscore.css
 
-https://github.com/AmyBaguio/Code-Quiz/blob/master/CodeQuizP1.png
+
 
 
