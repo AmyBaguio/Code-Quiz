@@ -32,3 +32,7 @@ highscores.js
 style.css
 game.css
 highscore.css
+
+
+
+
