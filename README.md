@@ -1,4 +1,9 @@
-# Code-Quiz
+# Code-Quiz(Homework 4)
+
+Code Quiz Instruction:
+
+Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+
 
 Criteria for Code Quiz:
 
@@ -14,3 +19,16 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score and click Submit
 Last page will show "Go Back" or "View Highscores"
+
+The following files were created to come up with a Code Quiz:
+
+index.html
+game.html
+end.html
+highscores.html
+game.js
+end.js
+highscores.js
+style.css
+game.css
+highscore.css
