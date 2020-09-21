@@ -52,7 +52,7 @@ let questions = [
 const SCORE_POINTS = 100;
 const MAX_QUESTIONS = 4;
 
-var secondsLeft = 50;
+var secondsLeft = 75;
 
 function setTime() {
     var timerInterval = setInterval(function () {

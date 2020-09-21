@@ -1,10 +1,14 @@
 body {
     color-adjust: #ffffff;
+   
 }
 
 #highScoresList {
     list-style: none;
     margin-bottom: 4rem;
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
 
 .high-Score {
