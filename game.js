@@ -91,7 +91,7 @@ getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
 
-        return window.location.href = '/path'; 
+        return window.location.href = './end.html';  
     }
 
     questionCounter++
